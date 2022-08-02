@@ -2,10 +2,10 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@monkfromearth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monkfromearth)](https://twitter.com/monkfromearth) 
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@monkfromearth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monkfromearth)](https://twitter.com/monkfromearth) 
 [![Linkedin Badge](https://img.shields.io/badge/-monkfromearth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monkfromearth/)](https://www.linkedin.com/in/monkfromearth/) 
 [![Medium Badge](https://img.shields.io/badge/-@monkfromearth-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@monkfromearth/)](https://medium.com/@monkfromearth)
-[![GitHub followers](https://img.shields.io/github/followers/monkfromearth.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/monkfromearth?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/monkfromearth.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/monkfromearth?tab=followers) -->
 
 I am Siddharth Choudhary 😃, from Bhopal, Madhya Pradesh 🏫. 
 
