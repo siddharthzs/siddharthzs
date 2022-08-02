@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-monkfromearth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monkfromearth/)](https://www.linkedin.com/in/monkfromearth/) 
 [![Medium Badge](https://img.shields.io/badge/-@monkfromearth-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@monkfromearth/)](https://medium.com/@monkfromearth)
 [![GitHub followers](https://img.shields.io/github/followers/monkfromearth.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/monkfromearth?tab=followers) -->
-
+https://ko-fi.com/siddharthchoudhary
 I am Siddharth Choudhary 😃, from Bhopal, Madhya Pradesh 🏫. 
 
 I talk about tech, philosophy, and startups. Building for India. ❤️
