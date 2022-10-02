@@ -7,16 +7,13 @@
 [![Medium Badge](https://img.shields.io/badge/-@monkfromearth-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@monkfromearth/)](https://medium.com/@monkfromearth)
 [![GitHub followers](https://img.shields.io/github/followers/monkfromearth.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/monkfromearth?tab=followers) -->
 https://ko-fi.com/siddharthchoudhary
-I am Siddharth Choudhary 😃, from Bhopal, Madhya Pradesh 🏫. 
-
-I talk about tech, philosophy, and startups. Building for India. ❤️
+I am Siddharth Choudhary 😃, from Bhopal, Madhya Pradesh 🏫. A backend software engineer who is passionate about translating ideas into code, and loves working with great minds. 
 
 ## 👯 Communities
-* Speaker @ GDG Bhopal (Jun 2019 - Present)
+* Volunteer @ GDG Bhopal (Jun 2019 - Present)
 * Volunteer @ FB DevC Bhopal (Jun 2019 - Apr 2021)
 
 
-## Hello World!! ⭐️
-- 🔔 Subscribe:- [Siddharth Choudhary](https://www.youtube.com/siddharthzs)
+
 
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddharthzs&hide=["issues"]&show_icons=true)
