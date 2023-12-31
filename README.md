@@ -2,6 +2,13 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
+## By the way here are some of my statistics 🚀
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=AkuraDiary&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+
+🌱 I’m currently learning android in dicoding.com with kotlin
+
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@monkfromearth-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/monkfromearth)](https://twitter.com/monkfromearth) 
 [![Linkedin Badge](https://img.shields.io/badge/-monkfromearth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/monkfromearth/)](https://www.linkedin.com/in/monkfromearth/) 
 [![Medium Badge](https://img.shields.io/badge/-@monkfromearth-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@monkfromearth/)](https://medium.com/@monkfromearth)
