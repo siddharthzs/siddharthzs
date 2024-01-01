@@ -13,8 +13,8 @@ I am Siddharth Choudhary 😃, from Bhopal, Madhya Pradesh 🏫. A backend softw
 
 ## By the way here are some of my statistics 🚀
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthzs&theme=tokyonight" alt="mystreak"/>
-![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddharthzs&show_icons=true&theme=tokyonight)
-![Siddharth's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthzs&theme=tokyonight&layout=compact)
+<!-- ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=siddharthzs&show_icons=true&theme=tokyonight)
+![Siddharth's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthzs&theme=tokyonight&layout=compact) -->
 
 
 
